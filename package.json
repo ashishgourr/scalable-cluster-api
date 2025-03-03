@@ -1,0 +1,27 @@
+{
+  "name": "scalable-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "autocannon": "^8.0.0",
+    "axios": "^1.8.1",
+    "cluster": "^0.7.7",
+    "compression": "^1.8.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "morgan": "^1.10.0",
+    "os": "^0.1.2",
+    "pm2": "^5.4.3",
+    "rate-limit": "^0.1.1",
+    "rate-limiter-flexible": "^5.0.5"
+  }
+}
