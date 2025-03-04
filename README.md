@@ -20,7 +20,7 @@ This project implements a scalable API using Node.js and the `cluster` module to
 1. Clone the repository:
    ```sh
    git clone https://github.com/ashishgourr/scalable-cluster-api.git
-   cd scalable-api
+   cd scalable-cluster-api
    ```
 2. Install dependencies:
    ```sh

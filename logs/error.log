@@ -1,0 +1,10 @@
+{"level":"error","message":"Worker 5 (PID: 23741) is crashing...","timestamp":"2025-03-04T11:57:49.563Z"}
+{"level":"error","message":"Worker 23741 died with code 1 and signal null. Restarting worker...","timestamp":"2025-03-04T11:57:49.568Z"}
+{"level":"error","message":"Worker 8 (PID: 23744) is crashing...","timestamp":"2025-03-04T11:57:50.595Z"}
+{"level":"error","message":"Worker 23744 died with code 1 and signal null. Restarting worker...","timestamp":"2025-03-04T11:57:50.600Z"}
+{"level":"error","message":"Worker 2 (PID: 23738) is crashing...","timestamp":"2025-03-04T11:57:50.607Z"}
+{"level":"error","message":"Worker 23738 died with code 1 and signal null. Restarting worker...","timestamp":"2025-03-04T11:57:50.612Z"}
+{"level":"error","message":"Worker 1 (PID: 23737) is crashing...","timestamp":"2025-03-04T11:57:50.625Z"}
+{"level":"error","message":"Worker 23737 died with code 1 and signal null. Restarting worker...","timestamp":"2025-03-04T11:57:50.632Z"}
+{"level":"error","message":"Worker 7 (PID: 23743) is crashing...","timestamp":"2025-03-04T11:57:55.650Z"}
+{"level":"error","message":"Worker 23743 died with code 1 and signal null. Restarting worker...","timestamp":"2025-03-04T11:57:55.654Z"}
