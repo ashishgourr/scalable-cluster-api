@@ -35,6 +35,14 @@ To start the API server:
 node server.js
 ```
 
+The server will:
+
+- Fork worker processes equal to the number of CPU cores.
+
+- Log worker startup and health status.
+
+- Automatically restart crashed workers.
+
 ## Endpoints
 
 ### Root Endpoint
@@ -61,3 +69,4 @@ node server.js
 - `morgan` - Request logging
 - `cors` - Enables CORS
 - `rate-limiter-flexible` - Rate limiting
+- `winston` - Provides advanced logging capabilities.
